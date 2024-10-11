@@ -1,5 +1,7 @@
 # PowerBi-Water-Data-Visualization-Study
 
+![logo](https://github.com/Armeldt/PowerBi-Water-Data-Visualization-Study/blob/main/Ressources/logo.png?raw=true)
+
 ## Detailed Project Description:
 
 In this project, as part of my data analyst training, I conducted a public health study analyzing the availability of drinkable water. The objective was to assess water accessibility and provide insights through clear and effective data visualizations tailored to a client’s needs.
