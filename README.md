@@ -1,6 +1,6 @@
 # PowerBi-Water-Data-Visualization-Study
 
-![logo](https://github.com/Armeldt/PowerBi-Water-Data-Visualization-Study/blob/main/Ressources/logo.png?raw=true)
+<img src="https://github.com/Armeldt/PowerBi-Water-Data-Visualization-Study/blob/main/Ressources/logo.png?raw=true" alt="logo" width="400"/>
 
 ## Detailed Project Description:
 
