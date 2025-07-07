@@ -34,11 +34,11 @@ In this project, as part of my data analyst training, I conducted a public healt
 
 This project allowed me to apply my data analysis and visualization skills to a crucial public health issue, delivering valuable insights on the availability of drinkable water.
 
-<img src="https://github.com/Armeldt/PowerBi-Water-Data-Visualization-Study/blob/main/Ressources/Home.png?raw=true" alt="logo" width="500"/>
+<img src="https://github.com/Armeldt/PowerBi-Water-Data-Visualization-Study/blob/main/Ressources/Home.png?raw=true" alt="logo" width="800"/>
 
-<img src="https://github.com/Armeldt/PowerBi-Water-Data-Visualization-Study/blob/main/Ressources/Vue_mondiale.png?raw=true" alt="logo" width="500"/>
+<img src="https://github.com/Armeldt/PowerBi-Water-Data-Visualization-Study/blob/main/Ressources/Vue_mondiale.png?raw=true" alt="logo" width="700"/>
 
-<img src="https://github.com/Armeldt/PowerBi-Water-Data-Visualization-Study/blob/main/Ressources/Vue_continentale.png?raw=true" alt="logo" width="500"/>
+<img src="https://github.com/Armeldt/PowerBi-Water-Data-Visualization-Study/blob/main/Ressources/Vue_continentale.png?raw=true" alt="logo" width="900"/>
 
-<img src="https://github.com/Armeldt/PowerBi-Water-Data-Visualization-Study/blob/main/Ressources/Vue_nationale.png?raw=true" alt="logo" width="500"/>
+<img src="https://github.com/Armeldt/PowerBi-Water-Data-Visualization-Study/blob/main/Ressources/Vue_nationale.png?raw=true" alt="logo" width="1000"/>
 
