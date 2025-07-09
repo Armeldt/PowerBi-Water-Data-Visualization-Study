@@ -18,7 +18,7 @@ In this project, as part of my data analyst training, I conducted a public healt
 
     - Clean, preprocess, and organize datasets to ensure accurate and reliable results for visualization purposes.
       
-    - Use Python or Excel for data handling and management, ensuring best practices throughout.
+    - Use Python, Power Query and Excel for data handling and management, ensuring best practices throughout.
 
 3. Data Visualization and Storytelling:
 
